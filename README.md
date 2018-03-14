@@ -1,5 +1,8 @@
 # hash-identifier
-Software to identify the different types of hashes used to encrypt data and especially passwords
+
+![alt text](https://raw.githubusercontent.com/blackploit/hash-identifier/master/screenshots/hash_id_v1.2.png)
+
+Software to identify the different types of hashes used to encrypt data and especially passwords.
 
 Encryption formats supported:
 
@@ -58,5 +61,5 @@ Encryption formats supported:
 * Whirlpool
 * And more…
  
-    
+
 Encryption algorithms that can not be differentiated unless they have been decrypted, so the efficiency of the software also depends on the user's criteria.
