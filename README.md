@@ -57,6 +57,6 @@ Encryption formats supported:
 * SHA-512
 * Whirlpool
 * And more…
-    
+ 
     
 Encryption algorithms that can not be differentiated unless they have been decrypted, so the efficiency of the software also depends on the user's criteria.
