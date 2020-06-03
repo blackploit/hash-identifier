@@ -61,5 +61,5 @@ Encryption formats supported:
 * Whirlpool
 * And more…
  
-
+P.S: Rewrite and optimize code 
 Encryption algorithms that can not be differentiated unless they have been decrypted, so the efficiency of the software also depends on the user's criteria.
