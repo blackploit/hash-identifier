@@ -24,11 +24,6 @@ logo='''   #####################################################################
    #                                                   Root@Blackploit.com #
    #########################################################################'''
 
-# hash.islower()  minusculas
-# hash.isdigit()  numerico
-# hash.isalpha()  letras
-# hash.isalnum()  alfanumerico
-
 hashlist = {
     '4_chars':['CRC-16','CRC-16-CCITT','FCS-16'],
     '8_chars':['CRC-32','ADLER-32','CRC-32B','XOR-32','GHash-32-3','GHash-32-5'],
